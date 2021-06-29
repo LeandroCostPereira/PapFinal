@@ -1,0 +1,15 @@
+.Tab{
+    /*border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid #ddd;*/
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    
+    padding: 8px;
+}
+  
+tr:nth-child(even){background-color: #f2f2f2}  
